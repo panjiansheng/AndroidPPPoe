@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ddlSearchField">
+        <item >书名</item>
+        <item >作者</item>
+        <item >出版社</item>
+        <item >书目号</item>
+        <item >索书号</item>
+        <item >ISBN/ISSN</item>
+    </string-array>
+    
+    <string-array name="DropDownList_Sort">
+        <item >书名</item>
+        <item >ID</item>
+        <item >作者</item>
+        <item >出版社</item>
+    </string-array>
+    
+    <string-array name="DropDownList_OrderStyle">
+        <item >正序</item>
+        <item >反序</item>
+    </string-array>
+    
+    
+    <string-array name="ddlDistribution">
+        <item >所有分馆</item>
+        <item >西南交大图书馆</item>
+        <item >峨眉校区图书馆</item>
+        <item >生命科学与工程学院</item>
+        <item >物流学院</item>
+        <item >艺传学院</item>
+        <item >政治学院</item>
+    </string-array>
+    
+    <string-array name="ddlBookType">
+        <item >所有分类</item>
+        <item >中文图书</item>
+        <item >西文图书</item>
+        <item >中文期刊</item>
+        <item >西文期刊</item>
+    </string-array>
+    
+</resources>

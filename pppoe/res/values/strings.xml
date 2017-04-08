@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">拨一下</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_score_inquiry">ScoreInquiry</string>
+    <string name="title_activity_inquiry_result">InquiryResultActivity</string>
+    <string name="title_activity_sports_center">SportsCenter</string>
+    <string name="title_activity_sport_time_result">SportTimeResult</string>
+    <string name="title_activity_library">Library</string>
+    <string name="title_activity_search_books">SearchBooksActivity</string>
+    <string name="title_activity_book_detail">BookDetailActivity</string>
+    <string name="title_activity_welcome">拨一下</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_search_empty_classrooms">SearchEmptyClassrooms</string>
+    <string name="title_activity_schedules">Schedules</string>
+    <string name="title_activity_course_detail">CourseDetailActivity</string>
+    <string name="title_activity_dean_office_login">DeanOfficeLoginActivity</string>
+    <string name="title_activity_class_detail">ClassDetailActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_news_detail">NewsDetailActivity</string>
+    <string name="title_activity_swjtu_map">SwjtuMapActivity</string>
+    <string name="title_activity_pppoe">PPPoeActivity</string>
+    <string name="login">登录</string>
+    <string name="text_hint">Channel绑定信息：</string>
+    <string name="text_btn_init">登陆百度账号初始化Channel</string>
+    <string name="text_btn_init1">更换百度账号初始化Channel</string>
+    <string name="text_btn_rich">查看富媒体消息</string>
+    <string name="text_btn_initAK">无账号初始化Channel</string>
+    <string name="text_btn_setTags">设置标签</string>
+    <string name="text_btn_delTags">删除标签</string>
+    <string name="text_btn_senior">高级功能</string>
+    <string name="text_btn_set">设置</string>
+    <string name="text_media_title">富媒体消息列表</string>
+    <string name="media">Rich Media</string>
+    <string name="custom_text_hint">用户自定义打开的Activity</string>
+    <string name="tags_hint">请输入多个标签，以英文逗号隔开</string>
+    <string name="title_activity_swjtu_know">SwjtuKnowActivity</string>
+    <string name="title_activity_swjtu_know_detail">SwjtuKnowDetailActivity</string>
+    <string name="title_activity_individual_center">IndividualCenterActivity</string>
+    <string name="title_activity_individual_center_main">IndividualCenterMainActivity</string>
+    <string name="title_activity_add_question">AddQuestionActivity</string>
+    <string name="title_activity_msg_box">MsgBoxActivity</string>
+    <string name="title_activity_swjtu_chat">SwjtuChatActivity</string>
+    <string name="title_activity_add_friend">AddFriendActivity</string>
+    <string name="title_activity_swjtu_chat_with_friend">SwjtuChatWithFriendActivity</string>
+    <string name="title_activity_second_class_list">SecondClassListActivity</string>
+    <string name="title_activity_my_second_class">MySecondClassActivity</string>
+    <string name="title_activity_second_class_detail">SecondClassDetailActivity</string>
+    <string name="title_activity_second_class_login">SecondClassLoginActivity</string>
+    <string name="title_activity_my_course_detail">MyCourseDetailActivity</string>
+    <string name="title_activity_my_swjtu_know">MySwjtuKnowActivity</string>
+    <string name="title_activity_my_swjtu_know_detail">MySwjtuKnowDetailActivity</string>
+    <string name="title_activity_push_setting">PushSettingActivity</string>
+    <string name="title_activity_notification_helper">NotificationHelper</string>
+    <string name="title_activity_block_setting">BlockSettingActivity</string>
+    <string name="title_activity_personal_icon_setting">PersonalIconSettingActivity</string>
+    <string name="title_activity_swjtu_know_log">SwjtuKnowLogActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_swjtu_phone_book">SwjtuPhoneBookActivity</string>
+    <string name="title_activity_take_out">TakeOutActivity</string>
+    <string name="title_activity_take_out_detail">TakeOutDetailActivity</string>
+
+</resources>

@@ -1,0 +1,10 @@
+echo WiFi PPPoE by amishxda
+ip route del default
+pppd pty "pppoe -I "$1" -T 80 -U -m 1412" user "$2" password "$3" defaultroute mtu 1492 mru 1492
+setprop net.rmnet0.dns1 114.114.114.114
+setprop net.rmnet0.dns2 8.8.8.8
+setprop net.dns1 202.115.64.33
+setprop net.dns2 8.8.8.8
+ip route del default
+ip route add default dev ppp0
+

@@ -1,0 +1,12 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="blue2">#ff75a6ff</color>
+    <color name="translucence">#ff4e4752</color>
+	<color name="blue">#03b4fe</color>
+	<color name="green">#4f6d5e</color>
+	<color name="swjtu_blue">#025483</color>
+	<color name="swjtu_blue_deep">#00334E</color>
+</resources>
